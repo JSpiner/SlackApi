@@ -11,4 +11,5 @@ setup(
    author_email='jspiner@naver.com',
    url='https://github.com/JSpiner/SlackApi',
    description="Python Simple Slack Event Api",
+   packages=['slackapi']
 )

@@ -5,7 +5,6 @@ SLACK_API_SERVER = "https://slack.com/api/"
 
 class SlackApi:
 
-    
     def __init__(self, token):
         self.token = token 
         self.__generate_apis()
